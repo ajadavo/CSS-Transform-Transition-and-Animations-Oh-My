@@ -40,17 +40,17 @@ nav {
 }
 
 
-@keyframes top {
+@keyframes top 
   from {}
   to {}
 
 
-@keyframes middle {
-  from 0%{}
-  to 100%{}
-}
+@keyframes middle {}
+  from {}
+  to {}
 
-@keyframes bottom {
-  from {0%}
-  to {100%}
-}
+
+@keyframes bottom {}
+  from {}
+  to {}
+
